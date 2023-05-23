@@ -1,0 +1,45 @@
+{
+  "name": "𝑫𝒂𝒐 𝑲𝒊𝒆𝒖 𝑨𝒏𝒉 ᥫᩣ",
+  "ID": "1824557330",
+  "mainROD": "Cúp Netherite",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "Pháo Đài Nether"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Bedrock",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Đá Granite",
+      "category": "Uncommon",
+      "size": 40,
+      "sell": 500,
+      "image": "https://i.imgur.com/Sr32pdv.jpg"
+    },
+    {
+      "ID": 2,
+      "name": "Sỏi",
+      "category": "Uncommon",
+      "size": 22,
+      "sell": 300,
+      "image": "https://i.imgur.com/Gl4ylvn.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "Cúp Netherite",
+      "price": 29000,
+      "durability": 820,
+      "countdown": 3,
+      "countdownData": 1681372502788,
+      "image": "https://i.imgur.com/k1skyAb.png"
+    }
+  ],
+  "timeRegister": "19:30:17, 22/2/2023"
+}
