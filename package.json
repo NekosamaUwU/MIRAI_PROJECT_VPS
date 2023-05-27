@@ -1,7 +1,7 @@
 {
-    "name": "SawenRemake",
+    "name": "SenpaiBot",
     "version": "1.2.14",
-    "description": "Bot Mirai Mod, Fix And Update By TuanDeepTry",
+    "description": "Bot Mirai Mod, Fix And Update By Tusenpai",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
