@@ -56,9 +56,9 @@ const app = require ("express") ();  app.get ('/', (req, res) => {res.send ("RUN
 - 🍁 Ấn **Create Monitor** để hoàn thành quá trình tạo **uptime**
 # 🤝🏻 Connect With 𝑺𝑬𝑹𝑨𝑺𝑬𝑵𝑺𝑬𝑰 
 <p align="center"> 
-&nbsp; <a href="https://www.instagram.com/tuan.dzz_1/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
-&nbsp; <a href="https://www.tiktok.com/@tuandz.1407" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/jcWPUix.png" width="100" /></a>    
-&nbsp; <a href="https://github.com/tuandz2250" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
-&nbsp; <a href="https://www.facebook.com/TuannDzz123/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
-&nbsp; <a href="mailto:kenyrm2250@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
+&nbsp; <a href="https://www.instagram.com/rio.sensei.02/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="100" /></a> 
+&nbsp; <a href="https://www.tiktok.com/@nekosama.2k2" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/jcWPUix.png" width="100" /></a>    
+&nbsp; <a href="https://github.com/NekoSamaUwU" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/github.png" width="100" /></a>
+&nbsp; <a href="https://www.facebook.com/ThanhTu.DeveloperFB/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="100" /></a>
+&nbsp; <a href="mailto:vkhanh633@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="100" /></a>
 </p>
